@@ -43,5 +43,5 @@ jobs:
         with:
           name: test-results
           path: target/surefire-reports/
-          # optional: if you want to keep reports for a shorter time
+
           retention-days: 7
